@@ -1,0 +1,9 @@
+pandas
+pyarrow
+openpyxl
+tqdm
+sendgrid
+slack_sdk
+boto3
+python-dotenv
+cloudscraper
